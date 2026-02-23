@@ -1,6 +1,6 @@
 # 🚀 Shadowrocket Config
 
-> YouTube Premium + Locket Gold + PicsArt Pro + Duolingo Super + ADBlock
+> YouTube Premium + Locket Gold + PicsArt Pro + Duolingo Super + Swiftgram Premium + ADBlock
 
 [🇻🇳 Tiếng Việt](#-tiếng-việt) | [🇨🇳 中文](#-中文) | [🇯🇵 日本語](#-日本語)
 
@@ -39,6 +39,7 @@
     ├── deleteHeader.js     # Chống cache RevenueCat cho Locket
     ├── PicsArt.js          # PicsArt Pro
     ├── duolingo.js         # Duolingo Super
+    ├── swiftgram.js        # Swiftgram Premium
     ├── sub-store-0.min.js  # Sub-Store giao diện
     ├── sub-store-1.min.js  # Sub-Store lõi
     └── cron-sync-artifacts.min.js  # Sub-Store đồng bộ
@@ -148,13 +149,6 @@ Trong file `shadowrocket.config`, dòng `argument` của YouTube hỗ trợ các
 - Sub-Store はオプションです。プロキシノード管理が不要な場合は削除可能です
 
 ---
-
-## 📜 Credits
-
-- [duyvinh09/Module_IOS](https://github.com/duyvinh09/Module_IOS) — YouTube, Locket, PicsArt scripts
-- [app2smile/rules](https://github.com/app2smile/rules) — Spotify scripts
-- [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) — Sub-Store
-- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) — ADBlock rules
 
 ## ⚖️ Disclaimer
 
